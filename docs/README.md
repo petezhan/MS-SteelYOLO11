@@ -1,1 +1,1 @@
-MS-SteelYOLO11: A High-Robustness Sampling Optimization Method for Strip Steel Surface Defect Detection
+SteelYOLO11 for Strip Steel Defect Detection via Multi-Scale Sampling Optimization
